@@ -302,7 +302,7 @@
                                         <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
                                             <div class="text-center">
                                                 <a class="btn btn-add-cart w-100" href="add-to-cart?productId=${P.id}">
-                                                    <i class="fas fa-heart mr-2"></i>Tặng Ngay
+                                                    <i class="fas fa-heart mr-2"></i>Mua Ngay
                                                 </a>
                                             </div>
                                         </div>

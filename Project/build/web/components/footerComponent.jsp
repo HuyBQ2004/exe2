@@ -171,7 +171,7 @@
                         <p class="text-muted ml-4">Xã Hòa Lạc, Khu Công Nghệ Cao, TP Hà Nội</p>
                     </li>
                     <li class="mb-3">
-                        <p class="mb-0"><i class="fas fa-phone-alt contact-icon mr-2"></i><strong>Hotline Tình Yêu:</strong></p>
+                        <p class="mb-0"><i class="fas fa-phone-alt contact-icon mr-2"></i><strong>Hotline:</strong></p>
                         <p class="text-muted ml-4">+84 866 375 436</p>
                     </li>
                     <li class="mb-3">
